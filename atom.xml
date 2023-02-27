@@ -6,7 +6,7 @@
   <link href="http://licorice0.github.io/atom.xml" rel="self"/>
   
   <link href="http://licorice0.github.io/"/>
-  <updated>2023-02-27T01:12:47.923Z</updated>
+  <updated>2023-02-27T01:25:58.218Z</updated>
   <id>http://licorice0.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://licorice0.github.io/posts/0.html"/>
+    <id>http://licorice0.github.io/posts/0.html</id>
+    <published>2023-02-27T01:25:57.827Z</published>
+    <updated>2023-02-27T01:25:58.218Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="git"><a href="#git" class="headerlink" title="git"></a>git</h1><h2 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global user.name &quot; 用户名 &quot;</span><br><span class="line">$ git config --global user.email &quot; 邮箱 &quot; </span><br></pre></td></tr></table></figure><h2 id="下载代码"><a href="#下载代码" class="headerlink" title="下载代码"></a>下载代码</h2><p>在git中复制文件链接</p><p>找到或新建专门下载gitee文件的文件夹</p><p>在文件夹搜索框搜cmd，打开命令行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">//克隆</span><br><span class="line">$ git clone   </span><br></pre></td></tr></table></figure><h2 id="添加代码"><a href="#添加代码" class="headerlink" title="添加代码"></a>添加代码</h2><p>将新文件粘贴到克隆下来的仓库文件</p><p>文件右击选择git bash here打开命令行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ git status    查看状态</span><br><span class="line">$ git add .   添加所有文件</span><br><span class="line">$ git status    再次查看状态</span><br><span class="line">$ git commit -m +关键字  更新修改说明及内容</span><br><span class="line">$ git push    推送到服务器</span><br></pre></td></tr></table></figure><h2 id="修改代码"><a href="#修改代码" class="headerlink" title="修改代码"></a>修改代码</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git pull   拉取服务器最新代码</span><br></pre></td></tr></table></figure><p><img src="C:\Users\不敬业的大眠\AppData\Roaming\Typora\typora-user-images\image-20230227092505897.png" alt="image-20230227092505897"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;git&quot;&gt;&lt;a href=&quot;#git&quot; class=&quot;headerlink&quot; title=&quot;git&quot;&gt;&lt;/a&gt;git&lt;/h1&gt;&lt;h2 id=&quot;初始化&quot;&gt;&lt;a href=&quot;#初始化&quot; class=&quot;headerlink&quot; title=&quot;初始化&quot;&gt;&lt;/a&gt;初始化&lt;/h</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Webpack</title>
