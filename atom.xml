@@ -6,7 +6,7 @@
   <link href="http://licorice0.github.io/atom.xml" rel="self"/>
   
   <link href="http://licorice0.github.io/"/>
-  <updated>2023-04-06T09:04:09.728Z</updated>
+  <updated>2023-04-08T06:51:27.558Z</updated>
   <id>http://licorice0.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS基础</title>
+    <link href="http://licorice0.github.io/posts/5e5baec5.html"/>
+    <id>http://licorice0.github.io/posts/5e5baec5.html</id>
+    <published>2023-04-08T02:18:52.090Z</published>
+    <updated>2023-04-08T06:51:27.558Z</updated>
+    
+    <content type="html"><![CDATA[<p>Js基础</p><p>前端三剑客：angluer.js、vue.js、react.js<br>js能进行客户端数据计算，对提交数据进行校验验证客户端表单合法性，面向对象调用<br>js全称java Script是一种具有函数优先的轻量级解释编译型编程语言，基于原型编程的多范式动态脚本语言，支持面向对象。</p><p>Java Script由ECMAScript、DOM和BOM组成。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Js基础&lt;/p&gt;
+&lt;p&gt;前端三剑客：angluer.js、vue.js、react.js&lt;br&gt;js能进行客户端数据计算，对提交数据进行校验验证客户端表单合法性，面向对象调用&lt;br&gt;js全称java Script是一种具有函数优先的轻量级解释编译型编程语言，基于原型编程的多</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>css常用样式</title>

@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>JS基础</title>
+      <link href="/posts/5e5baec5.html"/>
+      <url>/posts/5e5baec5.html</url>
+      
+        <content type="html"><![CDATA[<p>Js基础</p><p>前端三剑客：angluer.js、vue.js、react.js<br>js能进行客户端数据计算，对提交数据进行校验验证客户端表单合法性，面向对象调用<br>js全称java Script是一种具有函数优先的轻量级解释编译型编程语言，基于原型编程的多范式动态脚本语言，支持面向对象。</p><p>Java Script由ECMAScript、DOM和BOM组成。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>css常用样式</title>
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
